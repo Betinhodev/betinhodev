@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Gilberto Soares ✌️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&url)](https://www.instagram.com/betinho.sn/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilberto-soares-a06b85185/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilberto-soares-nogueira/)
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/gsdesignerofficial)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=betinhodev&show_icons=true&theme=dracula)
